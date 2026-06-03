@@ -17,7 +17,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
 // Database Configuration
 $db_host = 'website-database-iqd1kg';
 $db_name = 'genz_db';
-$db_user = 'genz_db';
+$db_user = 'root';
 $db_pass = '@Qweasz123';
 
 // Connect to MySQL
